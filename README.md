@@ -22,15 +22,13 @@
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
-
+https://www.linkedin.com/in/praveen-kumar-r-9b85b6184/
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/suriya-singaravel/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/suriya-singaravel/" />
+    <a href="https://www.linkedin.com/in/praveen-kumar-r-9b85b6184/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/praveen-kumar-r-9b85b6184/" />
     </a>
-    <a href="https://twitter.com/suriya191197">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/suriya191197" />
-    </a>
+   
 </p>
 <br>
 
