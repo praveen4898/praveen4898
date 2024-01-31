@@ -16,7 +16,7 @@
 
 - 📫 How to reach me *praveenravi4898@gmail.com*
 
-- 👨‍💻 All my projects are available at my [Portfolio](https://github.com/praveen4898/praveen4898.github.io.git)
+- 👨‍💻 All my projects are available at my [Portfolio](https://praveen4898.github.io/)
 
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
