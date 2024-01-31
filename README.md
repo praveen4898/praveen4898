@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1167.jpg?w=826">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suriyasingaravel&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumar" /> </p>
 
 # 💫 About Me:
 
