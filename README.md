@@ -60,7 +60,7 @@ https://www.linkedin.com/in/praveen-kumar-r-9b85b6184/
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=praveen4898&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JayachandranRamu&theme=default&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=praveen4898&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=suriyasingaravel&show_icons=true&locale=en&layout=compact)
 
 ---
