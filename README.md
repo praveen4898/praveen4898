@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on *Portfolio*
 
-- 🌱 I’m currently learning *React Native*
-
 - 💬 Ask me about *HTML,CSS,JAVASCRIPT,MERN*
 
 - 📫 How to reach me *praveenravi4898@gmail.com*
