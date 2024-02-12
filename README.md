@@ -19,7 +19,6 @@
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
-https://www.linkedin.com/in/praveen-kumar-r-9b85b6184/
 
 <p align="left">
     <a href="https://www.linkedin.com/in/praveen-kumar-r-9b85b6184/">
